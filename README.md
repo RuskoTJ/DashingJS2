@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/RuskoTJ/DashingJS2.svg?branch=master)](https://travis-ci.org/RuskoTJ/DashingJS2)
 [![Coverage Status](https://coveralls.io/repos/github/RuskoTJ/DashingJS2/badge.svg?branch=master)](https://coveralls.io/github/RuskoTJ/DashingJS2?branch=master)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/40f08a9bb146433ca9678afeb08ba130)](https://www.codacy.com/manual/RuskoTJ/DashingJS2?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RuskoTJ/DashingJS2&amp;utm_campaign=Badge_Grade)
 
 # DashingJS2
 
